@@ -11,7 +11,9 @@ git init
 Initializes a new Git repository.
 
 ## ✅ 2. Stage Changes
+
 git add .
+
 Adds all changes to the staging area.
 
 ## ✅ 3. Commit Changes
