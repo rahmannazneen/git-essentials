@@ -69,8 +69,11 @@ Switches to the specified branch.
 # ⚡ Additional Git Commands
 
 - **Configure User Information**
+
   git config --global user.name "Your Name"
+  
   git config --global user.email "you@example.com"
+  
   Sets global Git configuration for username and email.
 
 - **View Changes**
